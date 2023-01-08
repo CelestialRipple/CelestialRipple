@@ -41,16 +41,16 @@ Here are some ideas to get you started:
 
 ## 🌎 Find me
 - wechat Official Account: search **theUltimategamer**📹 ✍🏾
-- blog: click [hiRipple]([https://coderfan.net/](https://hiripple.com/))🏓
+- blog: click [hiRipple](https://hiripple.com/)🏓
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Camera开发基础-数字成像原理简介](https://coderfan.net/camera-development-basisdigital-image-theory.html?utm_source=rss&utm_medium=rss&utm_campaign=camera-development-basisdigital-image-theory)
-- [Android12 Kernel编译与启动](https://coderfan.net/android12-kernel-compile-and-start.html?utm_source=rss&utm_medium=rss&utm_campaign=android12-kernel-compile-and-start)
-- [搬瓦工CN2GIA服务器推荐](https://coderfan.net/bandwagonhost-cn2-gia-vps.html?utm_source=rss&utm_medium=rss&utm_campaign=bandwagonhost-cn2-gia-vps)
-- [关于Android系统模拟运行方案杂谈](https://coderfan.net/how-to-emulate-android-device.html?utm_source=rss&utm_medium=rss&utm_campaign=how-to-emulate-android-device)
-- [廉价服务器推荐-CloudCone](https://coderfan.net/budget-clouds-vps-recommend-cloudcone.html?utm_source=rss&utm_medium=rss&utm_campaign=budget-clouds-vps-recommend-cloudcone)
+- [千秋（AI）项目](https://hiripple.com/archives/2500)
+- [Oneshot原创白金攻略](https://hiripple.com/archives/990)
+- [RN服务器评测](https://hiripple.com/archives/1812)
+- [斯普拉顿诞生记](https://hiripple.com/archives/1075)
+- [校园网ipv6免流导航](https://hiripple.com/archives/669)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌎 Visitors
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+- [我的主页](https://me.hiripple.com/)
 
