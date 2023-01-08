@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 
 ![IOS](https://img.shields.io/badge/IOS-00a389?style=for-the-badge&logo=IOS&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-9946ec?style=for-the-badge&logo=macOS&logoColor=white)
-![PlayStation](https://img.shields.io/badge/PlayStation-8e9398?style=for-the-badge&logo=PlayStation&logoColor=blue)
-![macOS](https://img.shields.io/badge/macOS-9946ec?style=for-the-badge&logo=macOS&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-9946ec?style=for-the-badge&logo=macOS&logoColor=white)
+![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=PlayStation&logoColor=black)
+![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=NintendoSwitch&logoColor=black)
+![Xbox](https://img.shields.io/badge/Xbox-107c10?style=for-the-badge&logo=Xbox&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
