@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ## ⚡ Tec Stacks
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![React](https://img.shields.io/badge/-react-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
@@ -49,6 +50,4 @@ Here are some ideas to get you started:
 - [校园网ipv6免流导航](https://hiripple.com/archives/669)
 <!-- BLOG-POST-LIST:END -->
 
-## 🌎 Visitors
-- [我的主页](https://me.hiripple.com/)
 
