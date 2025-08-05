@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 - blog: click [hiRipple](https://hiripple.com/)🏓
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [千秋（AI）项目](https://hiripple.com/archives/2500)
-- [Oneshot原创白金攻略](https://hiripple.com/archives/990)
-- [RN服务器评测](https://hiripple.com/archives/1812)
-- [斯普拉顿诞生记](https://hiripple.com/archives/1075)
-- [校园网ipv6免流导航](https://hiripple.com/archives/669)
+- [日本游记 Vol.2](https://hiripple.com/zh/blog/JP-traveling-vol2)
+- [全新个人网站「Gamer」](https://hiripple.com/zh/blog/new-blog-gamer)
+- [任天堂Switch2 开箱评测](https://hiripple.com/zh/blog/NS2-unboxing)
+- [V50，组一个5.1环绕声道](https://hiripple.com/zh/blog/V50-stereo)
+- [Strm+Emby=无痛刮削，应对网盘风控新策略]([https://hiripple.com/zh/blog/V50-stereo](https://hiripple.com/zh/blog/2024-12-29-strmemby无痛刮削，应对网盘风控新策略))
 <!-- BLOG-POST-LIST:END -->
 
 
